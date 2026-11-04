@@ -1,6 +1,7 @@
 # Publish only the page and its screenshots
 *
 !.gitignore
+!README.md
 !index.html
 !comparison.html
 !shots/
