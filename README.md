@@ -1,6 +1,6 @@
 # Doctolib check-in prototypes: Claude vs Figma Make
 
-**Open the comparison: https://bfoldes.github.io/doctolib-comparison/**
+**Open the comparison: https://bfoldes.github.io/doctolib-comparison-figmamake-claude/**
 
 Side-by-side screenshots of two versions of the same AI-timed appointment check-in prototype (AI Native course, Module 2):
 
