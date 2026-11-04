@@ -1,0 +1,7 @@
+# Publish only the page and its screenshots
+*
+!.gitignore
+!index.html
+!comparison.html
+!shots/
+!shots/*.png
